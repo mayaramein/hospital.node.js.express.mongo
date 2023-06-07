@@ -1,0 +1,22 @@
+{
+  "name": "hospital.node.js.express.mongo",
+  "version": "1.0.0",
+  "description": "nodejs.Express.MongoDbProject",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "MayarAmein",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
